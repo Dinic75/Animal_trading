@@ -1,0 +1,83 @@
+/* add your CSS here */
+.fact {
+  /*font-style: italic;
+  font-size: larger;
+  font-weight: bold;
+  border-style: solid;
+  border-color: red;*/
+  border: 3px solid #8AC007;
+
+}
+
+  .clearfix {
+    overflow: auto;
+}
+  
+
+
+  }
+
+span {
+  font-weight: bold;
+  }
+
+img {
+max-width: 100%;
+max-height: 100%;
+object-fit: contain;
+border: 5px solid red; 
+margin:1px;
+display: block;
+
+}
+.pic {
+  border: 300px;
+  width: 300px;
+  height: auto;
+  margin: 5px;
+  padding: 5px;
+  object-fit:contain;
+   display: block; 
+  }
+
+.card {
+  width: 310px;
+  height: 475px;
+  border: 1px solid lightsalmon;
+  font-size: 12px;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 5px;
+  padding: 5px;
+  text-align: left;
+  object-fit:contain;
+  background-color: #90EE90;
+  box-shadow: 5px 5px #D0D0D0;
+  font-style: "Times New Roman", serif;
+}
+
+h3 {
+  font-size: 20px;
+  margin: 5px;
+  border: 300px;
+}
+
+.description {
+  border: 1px solid light grey;
+  width: 300px;
+  height: auto;
+  margin: 5px;
+  padding: 5px;
+  display: block;
+
+}
+
+li {
+ list-style-type:none;
+}
+
+ul {
+  text-align: left;
+  margin: 0px;
+  padding: 0px;
+}
